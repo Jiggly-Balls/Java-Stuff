@@ -1,0 +1,3 @@
+# Java-Stuff
+
+Random things I learn about java...
