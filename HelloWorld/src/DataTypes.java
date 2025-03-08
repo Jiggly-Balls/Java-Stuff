@@ -12,6 +12,7 @@ public class DataTypes {
 
         int age = 19;
         double salary = -23.4;
+        float money = 3.6f;
         boolean isUnderage = false;
         char grade = 'F';
 
